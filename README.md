@@ -1,2 +1,2 @@
 # ineuron-assignment-1
-Asiinment-1
+Assignment-1
